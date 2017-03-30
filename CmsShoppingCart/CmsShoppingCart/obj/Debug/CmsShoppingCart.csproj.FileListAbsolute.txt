@@ -38,3 +38,7 @@ D:\ShoopingCartCMS\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.xml
 D:\ShoopingCartCMS\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojResolveAssemblyReference.cache
 D:\ShoopingCartCMS\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
 D:\ShoopingCartCMS\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
+D:\ShoopingCartCMS\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.dll
+D:\ShoopingCartCMS\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+D:\ShoopingCartCMS\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.xml
+D:\ShoopingCartCMS\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
